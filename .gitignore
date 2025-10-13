@@ -1,0 +1,10 @@
+
+*.class
+*.log
+
+# Simple Build Tool
+.bsp/
+.idea/
+ *.iml
+target/
+project/
